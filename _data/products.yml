@@ -1,0 +1,59 @@
+- product: "Google Talk"
+  name: "Google Messaging '05"
+  lifetime: "2005 - 2013"
+
+- product: "Google Voice"
+  name: "Google Messaging '09"
+  lifetime: "2009 - present"
+
+- product: "Google Buzz"
+  name: "Google Messaging '10"
+  lifetime: "2010 - 2011"
+
+- product: "Gmail"
+  name: "Google Messaging '10"
+  suffix: "DLC Edition"
+  lifetime: "2010 - present"
+  productLifetime: "2004 - present"
+
+- product: "Google+ Messenger"
+  name: "Google Messaging '11"
+  lifetime: "2011 - 2013"
+
+- product: "Google+ Hangouts"
+  name: "Google Messaging '13"
+  lifetime: "2013 - present"
+
+- product: "Messages"
+  name: "Google Messaging '14"
+  lifetime: "2014 - present"
+
+- product: "Google Spaces"
+  name: "Google Messaging '16"
+  lifetime: "2016 - 2017"
+
+- product: "Google Allo"
+  name: "Google Messaging '16"
+  suffix: "Second Edition"
+  lifetime: "2016 - 2018"
+
+- product: "Hangouts Chat"
+  name: "Google Messaging '17"
+  lifetime: "2017 - 2019"
+
+- product: "YouTube"
+  name: "Google Messaging '17"
+  suffix: "DLC Edition"
+  lifetime: "2017 - 2019"
+  productLifetime: "2004 - present"
+
+- product: "Google Chat"
+  name: "Google Messaging '19"
+  lifetime: "2019 - present"
+
+
+- product: "Google Photos"
+  name: "Google Messaging '19"
+  lifetime: "2019 - present"
+  suffix: "DLC Edition"
+  productLifetime: "2015 - present"
