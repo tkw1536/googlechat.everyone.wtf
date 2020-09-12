@@ -37,6 +37,11 @@
   suffix: "Second Edition"
   lifetime: "2016 - 2018"
 
+- product: "Google Duo"
+  name: "Google Messaging '16"
+  suffix: "Third Edition"
+  lifetime: "2016 - present"
+
 - product: "Hangouts Chat"
   name: "Google Messaging '17"
   lifetime: "2017 - 2019"
