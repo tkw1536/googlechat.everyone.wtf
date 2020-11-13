@@ -62,3 +62,8 @@
   lifetime: "2019 - present"
   suffix: "DLC Edition"
   productLifetime: "2015 - present"
+
+- product: "Google Stadia"
+  name: "Google Messaging '20"
+  lifetime: "2020 - present"
+  productLifetime: "2019 - present"
